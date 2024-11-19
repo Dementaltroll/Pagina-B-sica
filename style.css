@@ -1,0 +1,170 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    font-family: "Signika", sans-serif;
+}
+
+#guion1{
+    border-top: 5px solid lightgreen;
+    height: 2px;
+    max-width: 80%;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+#guion2{
+    border-top: 5px solid lightgreen;
+    height: 2px;
+    max-width: 80%;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+#guion3{
+    border-top: 5px solid lightgreen;
+    height: 2px;
+    max-width: 80%;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 10px;
+    margin-top: 15px;
+}
+
+
+#b2{
+    display: flex;
+}
+
+#cont1{
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    margin-inline: 10px;
+}
+
+#ig1{
+    height: 500px;
+    width: 500px;
+}
+
+#tex{
+    margin-inline: 10px;
+}
+
+#t1{
+    margin-bottom: 50px;
+}
+
+input{
+    width: 400px;
+    height: 35px;
+    border-width: 4px;
+    margin: auto;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
+
+#ton1{
+    width: 97%;
+    height: 50px;
+    border: 5px solid lightgreen ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 30px;
+}
+
+#cont2{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    
+}
+
+#cabsu1{
+    width: 33%;
+}
+
+#cabsu2{
+    width: 33%;
+}
+
+#cabsu3{
+    width: 33%;
+}
+
+#ig2{
+    height: 250px;
+    width: 250px;
+}
+#ig3{
+    height: 200px;
+    width: 300px;
+}
+#ig4{
+    height: 225px;
+    width: 300px;
+}
+
+p{
+    margin-inline: 10px;
+}
+
+#contro1{
+    font-size: x-large;
+    margin-inline: 10px;
+}
+
+#contro2{
+    margin-inline: 10px;
+    font-size: x-large;
+}
+
+#contro3{
+    margin-inline: 10px;
+    font-size: x-large;
+}
+
+#title{
+    width: 97%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 30px;
+}
+
+#iconos{
+    width: 50%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    font-size: 70px;
+}
+
+#cont3{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-inline: 20px;
+}
+
+#ig5{
+  width: 790px;
+  height: 326px; 
+}
